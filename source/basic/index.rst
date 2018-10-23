@@ -8,7 +8,7 @@
    :caption: Contents:
 
    values
-   complex_types
+   types
    cycles_if
    json
    functions
