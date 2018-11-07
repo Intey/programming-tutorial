@@ -8,15 +8,11 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    basic/index
 
 
+Поиск
+=====
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+:ref:`search`

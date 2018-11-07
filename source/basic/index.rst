@@ -5,10 +5,21 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    values
    types
    cycles_if
    json
    functions
+   refs
+
+Материалы для домашний занятий
+==============================
+
+.. toctree::
+   :maxdepth: 2
+
+   tasks/base
+
+
+
