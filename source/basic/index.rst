@@ -17,9 +17,10 @@
 ==============================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    tasks/base
+   tasks/solves
 
 
 
